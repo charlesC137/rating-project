@@ -10,12 +10,11 @@ body{
 
 main{
   background-color:hsl(213, 19%, 18%);
-  width: 50%;
+  width: 70%;
   max-width: 400px;
   padding: 24px;
   border-radius: 20px;
-  height: 60%;
-  max-height: 50%;
+  height: 70%;
 }
 
 /* add this class to the main in javascript */
