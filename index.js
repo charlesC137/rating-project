@@ -21,7 +21,7 @@ submitBtn.addEventListener('click', () => {
   mainElement.classList.add('center-items');
 
   mainElement.innerHTML = `
-    <img src="./images/illustration-thank-you.svg" alt="thank-you-img">
+    <img class="thanks-image" src="./images/illustration-thank-you.svg" alt="thank-you-img">
     <p class="selected-count">
       You selected ${rating} out of 5
     </p>
